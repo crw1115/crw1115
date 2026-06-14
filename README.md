@@ -10,7 +10,7 @@
 
 ### 🎀献上我推一张
 <p align="center">
-  <img src="https://raw.githubusercontent.com/crw1115/crw1115/main/mmexport1747320827134.jpg" width="600" style="border:3px solid #F08FB8; border-radius:12px;" alt="favorite anime">
+  <img src="https://media.giphy.com/media/Yn09rXUZYIG1tbpJ9M/giphy.gif" width="600" style="border:3px solid #F08FB8; border-radius:12px;" alt="favorite anime">
 </p>
 
 <p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
