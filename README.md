@@ -54,7 +54,7 @@ enfp-t
 <p align="center" style="color:#F08FB8;">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="sparkles">
+  <img src="https://media.giphy.com/media/Yn09rXUZYIG1tbpJ9M/giphy.gif" width="150" alt="anime girl">
   <br>
   <img src="https://komarev.com/ghpvc/?username=crw1115&color=F08FB8&style=flat-square&label=悄悄来访的小伙伴" alt="visitors">
 </p>
@@ -62,4 +62,4 @@ enfp-t
 <p align="center">
   <br>
   💤 小语录：多敲代码，多多睡觉
-</p>在这个基础上改，不要动我的字
+</p>
