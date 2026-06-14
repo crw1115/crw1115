@@ -16,6 +16,7 @@
 <p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 ### 🍡 关于我呀
+enfp-t
 - 🔭 目前在捣鼓：努力学习基础语法
 - 🌱 慢慢学习中：和代码打好交道(๑•́ ω •̀๑)
 - 💬 欢迎来找我聊：编程小问题 / 二次元日常/如何摸鱼不被抓/有趣的项目
@@ -50,7 +51,7 @@
   <img src="https://img.shields.io/badge/Markdown-%23F08FB8.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
+<p align="center" style="color:#F08FB8;">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="sparkles">
