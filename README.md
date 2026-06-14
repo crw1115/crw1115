@@ -8,19 +8,19 @@
 
 ---
 
-### 🎨 放一张可爱的我推
+### 🎨放一张我推
 <p align="center">
- https://github.com/crw1115/crw1115.git
-  <img src="https://your-image-link-here.jpg" width="320" style="border:3px solid #F08FB8; border-radius:12px;" alt="favorite anime">
+  <!-- 这里是图片占位，后面你上传图片拿到链接后，直接替换下面的地址就行 -->
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320" style="border:3px solid #F08FB8; border-radius:12px;" alt="favorite anime">
 </p>
 
 ---
 
 ### 👋 关于我
-- 🔭 目前在努力学习语言基础
-- 🌱 正在学：java
+- 🔭 目前正在努力学习基础语言
+- 🌱 正在学：让电脑听懂我的话…
 - 💬 可以问我：Java 作业怎么写 / 怎么摸鱼不被发现
-- ⚡ 废宅一枚
+- ⚡ 是一枚宅宅
 - 😴 状态：电量 1%，正在努力给电脑充电中…
 
 ---
