@@ -8,19 +8,18 @@
 
 <p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
-### 🎀 我的心动小屋
-<!-- 在此区域直接拖拽图片，自动上传生成链接 -->
+### 🎀 我的心动动漫小屋
 <p align="center">
-
+  <img src="https://raw.githubusercontent.com/crw1115/crw1115/main/mmexport1747320827134.jpg" width="600" style="border:3px solid #F08FB8; border-radius:12px;" alt="favorite anime">
 </p>
 
 <p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 ### 🍡 关于我呀
-- 🔭 目前在捣鼓努力学习基础语言
+- 🔭 目前在捣鼓：努力学习基础语言
 - 🌱 慢慢学习中：和代码打好交道(๑•́ ω •̀๑)
-- 💬 欢迎来找我聊：编程小问题 / 如何摸鱼不被发现/新的有意思的代码
-- ⚡ 日常爱好：追番、原地瘫倒
+- 💬 欢迎来找我聊：变成小问题 / 二次元日常
+- ⚡ 日常爱好：追番、写代码、原地瘫倒
 - 😴 当前状态：电量告急 ⚡ 努力续命中...
 
 <p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
