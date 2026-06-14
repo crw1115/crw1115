@@ -1,7 +1,6 @@
 <h1 align="center" style="color:#F08FB8; font-size:3em; font-weight:bold;">
   Hi there ... I'm Alyssa~
 </h1>
-
 <p align="center" style="color:#F08FB8;">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 ### 🎀献上我推一张
@@ -50,5 +49,5 @@
 
 <p align="center">
   <br>
-  💤 小语录：少敲代码，多多睡觉，快乐加倍～
+  💤 小语录：多敲代码，多多睡觉
 </p>
