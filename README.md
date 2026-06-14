@@ -2,7 +2,7 @@
   Hi there ... I'm Alyssa~
 </h1>
 
-<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
+<p align="center" style="color:#F08FB8;">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 ### 🎀献上我推一张
 <p align="center">
