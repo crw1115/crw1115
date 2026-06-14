@@ -6,26 +6,26 @@
   <img src="https://media.giphy.com/media/l0HlOBZcl7bB3h9dO/giphy.gif" width="220" alt="sleepy anime girl">
 </p>
 
----
+<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
-### 🎨放一张我推
+### 🎀 我的心动小屋
+<!-- 在此区域直接拖拽图片，自动上传生成链接 -->
 <p align="center">
-  <!-- 这里是图片占位，后面你上传图片拿到链接后，直接替换下面的地址就行 -->
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320" style="border:3px solid #F08FB8; border-radius:12px;" alt="favorite anime">
+
 </p>
 
----
+<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
-### 👋 关于我
-- 🔭 目前正在努力学习基础语言
-- 🌱 正在学：让电脑听懂我的话…
-- 💬 可以问我：Java 作业怎么写 / 怎么摸鱼不被发现
-- ⚡ 是一枚宅宅
-- 😴 状态：电量 1%，正在努力给电脑充电中…
+### 🍡 关于我呀
+- 🔭 目前在捣鼓努力学习基础语言
+- 🌱 慢慢学习中：和代码打好交道(๑•́ ω •̀๑)
+- 💬 欢迎来找我聊：编程小问题 / 如何摸鱼不被发现/新的有意思的代码
+- ⚡ 日常爱好：追番、原地瘫倒
+- 😴 当前状态：电量告急 ⚡ 努力续命中...
 
----
+<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
-### 📊 我的摆烂小统计
+### 📊 摸鱼式代码统计
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crw1115&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F08FB8&icon_color=F08FB8" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crw1115&theme=tokyonight&hide_border=true&background=0D1117&stroke=F08FB8&ring=F08FB8" alt="streak" />
@@ -35,9 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crw1115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F08FB8" alt="languages" />
 </p>
 
----
+<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
-### 🛠️ 我的常用工具（偶尔用一下）
+### 🛠️ 手边小工具
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23F08FB8.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%23F08FB8.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -45,15 +45,15 @@
   <img src="https://img.shields.io/badge/GitHub-%23F08FB8.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="sparkles">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=crw1115&color=F08FB8&style=flat-square&label=Someone+visited+me...+why" alt="visitors">
+  <img src="https://komarev.com/ghpvc/?username=crw1115&color=F08FB8&style=flat-square&label=悄悄来访的小伙伴" alt="visitors">
 </p>
 
 <p align="center">
   <br>
-  「人生建议：少敲代码，多睡觉💤」
+  💤 小语录：少敲代码，多多睡觉，快乐加倍～
 </p>
