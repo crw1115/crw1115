@@ -1,23 +1,24 @@
 <h1 align="center" style="color:#F08FB8; font-size:3em; font-weight:bold;">
   Hi there ... I'm Alyssa~
 </h1>
+
 <p align="center" style="color:#F08FB8;">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
-### 🎀献上我推一张
+### 🎀 献上我推一张
 <p align="center">
   <img src="https://raw.githubusercontent.com/crw1115/crw1115/main/mmexport1747320827134.jpg" width="600" style="border:3px solid #F08FB8; border-radius:12px;" alt="favorite anime">
 </p>
 
-<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
+<p align="center" style="color:#F08FB8;">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 ### 🍡 关于我呀
 - 🔭 目前在捣鼓：努力学习基础语言
 - 🌱 慢慢学习中：和代码打好交道(๑•́ ω •̀๑)
-- 💬 欢迎来找我聊：变成小问题 / 二次元日常
+- 💬 欢迎来找我聊：编程小问题 / 二次元日常/有趣的小项目
 - ⚡ 日常爱好：追番、写代码、原地瘫倒
 - 😴 当前状态：电量告急 ⚡ 努力续命中...
 
-<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
+<p align="center" style="color:#F08FB8;">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 ### 📊 摸鱼式代码统计
 <p align="center">
@@ -29,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crw1115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F08FB8" alt="languages" />
 </p>
 
-<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
+<p align="center" style="color:#F08FB8;">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 ### 🛠️ 手边小工具
 <p align="center">
@@ -39,7 +40,7 @@
   <img src="https://img.shields.io/badge/GitHub-%23F08FB8.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
+<p align="center" style="color:#F08FB8;">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="sparkles">
@@ -47,7 +48,7 @@
   <img src="https://komarev.com/ghpvc/?username=crw1115&color=F08FB8&style=flat-square&label=悄悄来访的小伙伴" alt="visitors">
 </p>
 
-<p align="center">
+<p align="center" style="color:#F08FB8;">
   <br>
   💤 小语录：多敲代码，多多睡觉
 </p>
