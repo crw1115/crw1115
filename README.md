@@ -10,7 +10,7 @@
 
 ### 🎀献上我推一张
 <p align="center">
-  <img src="https://media.giphy.com/media/Yn09rXUZYIG1tbpJ9M/giphy.gif" width="600" style="border:3px solid #F08FB8; border-radius:12px;" alt="favorite anime">
+  <img src="https://raw.githubusercontent.com/crw1115/crw1115/main/mmexport1747320827134.jpg" width="600" style="border:3px solid #F08FB8; border-radius:12px;" alt="favorite anime">
 </p>
 
 <p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
@@ -62,4 +62,4 @@ enfp-t
 <p align="center">
   <br>
   💤 小语录：多敲代码，多多睡觉
-</p>
+</p>在这个基础上改，不要动我的字
