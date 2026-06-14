@@ -1,10 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F08FB8&center=true&vCenter=true&width=550&lines=Hi+there...+I'm+Alyssa~;Code+is+my+only+friend;Learning+to+talk+to+computers;Trying+not+to+code+forever" alt="Typing SVG" />
+<h1 align="center" style="color:#F08FB8; font-size:3em; font-weight:bold;">
+  Hi there ... I'm Alyssa~
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlOBZcl7bB3h9dO/giphy.gif" width="220" alt="sleepy anime girl">
-</p>
 
 <p align="center">✧ ˖ ° ｡ 𖦹 ˚ ✦ ˖ ° ｡ 𖦹 ˚ ✧</p>
 
